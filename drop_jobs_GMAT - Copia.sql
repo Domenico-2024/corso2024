@@ -1,5 +1,5 @@
 EXECUTE DROP_JOB_GMAT;
 
-execute pippo
+execute pippopo
 
 EXIT;
